@@ -8,7 +8,8 @@ At the heart of this project lies the ambition to conduct a comprehensive cluste
 # 📌 Clustering Models Unveiled:
 🧮 K-means Clustering: Pioneering the art of partitioning, K-means strides forth. Its mission: to allocate data points to a predetermined number of clusters. The essence of this journey lies in curbing the variance within clusters. Through iterative recalibrations of cluster centroids, data points find their allegiance to the closest cluster centroid, guided by the tenets of distance metrics. The crowning jewel: the elusive "K," the number of clusters, befittingly unraveled through techniques like the elbow method. Herein lies the point of equilibrium, where each additional cluster renders diminishing returns in the realm of variance reduction.
 
-# 🌳 Hierarchical Clustering: Behold the construction of a dendrogram—a hierarchical tapestry of clusters. This symphony of agglomeration commences with data points as individual clusters, progressively melding them based on proximity. The architecture of the dendrogram unveils the grandeur of cluster relationships. The linkage method, a maestro in its own right, orchestrates the calculation of inter-cluster distances. Liberated from the shackles of pre-defined clusters, the artistry of hierarchical clustering unveils granular levels of clustering finesse.
+# 🌳 Hierarchical Clustering: 
+Behold the construction of a dendrogram—a hierarchical tapestry of clusters. This symphony of agglomeration commences with data points as individual clusters, progressively melding them based on proximity. The architecture of the dendrogram unveils the grandeur of cluster relationships. The linkage method, a maestro in its own right, orchestrates the calculation of inter-cluster distances. Liberated from the shackles of pre-defined clusters, the artistry of hierarchical clustering unveils granular levels of clustering finesse.
 
 # 📋 Workflow :
 🔍 Data Refinement: Nurturing Imperfections
